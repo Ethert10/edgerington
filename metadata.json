@@ -1,0 +1,7 @@
+{
+  "name": "Edgerington Chatbot",
+  "description": "Edgerington (Version-67: Goon). A skilled, albeit sometimes mean, researcher chatbot powered by Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
